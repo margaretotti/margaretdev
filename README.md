@@ -11,7 +11,7 @@
 
 ### 🌱 About Me
 
-I'm Maggie, a Computer Science student at the University of Nigeria, Nsukka.
+I'm Margaret, a Computer Science student at the University of Nigeria, Nsukka.
 I'm passionate about technology, creativity, and building things that solve problems.
 Currently exploring the world of software development, one project at a time.
 Outside tech, I enjoy writing, photography, and creating content.
